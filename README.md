@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working with front-end and back-end development.
 - 👨‍🎓 I have a bachelor’s degree in Computer Science from the "Universidade de Caxias do Sul (UCS)"
-- 🌱 I’m currently learning Clojure and Next.
+- 🌱 I’m currently learning NextJS.
 - ⚡ Fun fact: running is my meditation...
 
 
